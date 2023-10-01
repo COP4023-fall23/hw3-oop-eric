@@ -1,0 +1,3 @@
+/*
+Here you will provide the definiton of each member function. Remeber include your class.
+*/
